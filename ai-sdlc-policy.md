@@ -29,11 +29,11 @@ Our goal is to identify **50% of defects** during the development phase rather t
 │   ─────────────────────              ──────────────────────         │
 │                                                                     │
 │   DEV ──► STAGING ──► PROD          DEV ──► STAGING ──► PROD        │
-│            ████████  ██████               ██                        │
-│           (60% found here)          ████████████                    │
-│                                     (50%+ found here)               │
+│            ████████  ██████                ██████████    ███        │
+│           (60% found here)                (50%+ found here)         │
 │                                                                     │
-│   Cost to fix: $$$$$                Cost to fix: $                  │
+│                                                                     │
+│   Cost to fix: $$$$$                       Cost to fix: $           │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
