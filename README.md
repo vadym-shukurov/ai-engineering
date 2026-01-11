@@ -89,8 +89,8 @@ Zero-data-retention policies protecting corporate IP
 
 This repository is part of a comprehensive engineering leadership framework:
 
-- [**Engineering Operating System**](https://github.com/vadym-shukurov/engineering-operating-system) — The parent framework
-- [**Service Ownership Model**](https://github.com/vadym-shukurov/service-ownership-model) — Decentralized ownership charter
+- [**Engineering Operating System**](https://github.com/vadym-shukurov/engineering-operating-system) - The parent framework
+- [**Service Ownership Model**](https://github.com/vadym-shukurov/service-ownership-model) - Decentralized ownership charter
 
 ---
 
